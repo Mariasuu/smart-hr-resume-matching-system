@@ -36,7 +36,8 @@ pandas — работа с таблицами и обработка данных
 matplotlib — построение диаграмм и визуализация результатов
 
 **Библиотеки для обработки текста и машинного обучения:**
-scikit-learn — модели машинного обучения и TF-IDF  
+
+scikit-learn — модели машинного обучения и TF-IDF 
 sentence-transformers — получение BERT-эмбеддингов  
 pypdf — обработка PDF-файлов  
 python-docx — обработка DOCX-файлов  
@@ -352,7 +353,7 @@ streamlit run app.py
 Требуется Middle Data Analyst.  
 Обязательные требования: python, sql, excel, pandas, data analysis.  
 Будет плюсом: power bi, tableau, statistics, visualization, product metrics.  
-Опыт работы от 2 лет.  
+Опыт работы от 1 года.  
 Высшее образование обязательно.
 ```
 <img width="2158" height="1044" alt="2026-04-08_03-02-32" src="https://github.com/user-attachments/assets/767c6a39-500e-4e31-b9fb-eb78a103d53f" />
