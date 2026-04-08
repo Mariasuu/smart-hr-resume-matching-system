@@ -344,6 +344,7 @@ streamlit run app.py
 Навыки: python, sql, excel, pandas, data analysis, power bi, statistics.  
 Участвовал в аналитических проектах, строил отчеты и визуализации.
 ```
+
 <img width="2122" height="810" alt="2026-04-08_03-00-05" src="https://github.com/user-attachments/assets/5bb71f31-622e-400a-ac72-a1bc76bc5159" />
 
 Пример вакансии:
@@ -355,6 +356,7 @@ streamlit run app.py
 Опыт работы от 1 года.
 Высшее образование обязательно.
 ```
+
 <img width="2158" height="1044" alt="2026-04-08_03-02-32" src="https://github.com/user-attachments/assets/767c6a39-500e-4e31-b9fb-eb78a103d53f" />
 
 
@@ -427,11 +429,14 @@ if features["education_match"] == 0:
 
 Интерфейс приложения:
 
+
 <img width="2852" height="1622" alt="2026-04-08_03-16-02" src="https://github.com/user-attachments/assets/0e6143bf-b79f-4c87-9c0f-077152259122" />
 
 
 
+
 <img width="2728" height="1596" alt="2026-04-08_03-10-47" src="https://github.com/user-attachments/assets/5aa6789b-1264-486e-9f72-6a2af3126540" />
+
 
 Результат анализа:
 
