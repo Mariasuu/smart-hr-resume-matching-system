@@ -35,13 +35,12 @@ Streamlit — создание веб-приложения
 pandas — работа с таблицами и обработка данных  
 matplotlib — построение диаграмм и визуализация результатов
 
-**Библиотеки для обработки текста и машинного обучения:**
-
-scikit-learn — модели машинного обучения и TF-IDF 
+**Библиотеки для обработки текста и машинного обучения:**  
+scikit-learn — модели машинного обучения и TF-IDF  
 sentence-transformers — получение BERT-эмбеддингов  
 pypdf — обработка PDF-файлов  
 python-docx — обработка DOCX-файлов  
-TXT-файлы — поддерживаются для загрузки и анализа обычного текстового формата  
+TXT-файлы — поддержка загрузки и анализа текстовых файлов  
 re — очистка текста и поиск шаблонов  
 random — генерация синтетических данных для обучения модели
 
@@ -341,19 +340,19 @@ streamlit run app.py
 
 ```text
 Есть высшее образование в области прикладной информатики.  
-Опыт работы 2 года.  
-Навыки: python, sql, excel, pandas, data analysis, power bi.  
-Работал с аналитическими отчетами и дашбордами.
+Опыт работы 1 год.  
+Навыки: python, sql, excel, pandas, data analysis, power bi, statistics.  
+Участвовал в аналитических проектах, строил отчеты и визуализации.
 ```
 <img width="2122" height="810" alt="2026-04-08_03-00-05" src="https://github.com/user-attachments/assets/5bb71f31-622e-400a-ac72-a1bc76bc5159" />
 
 Пример вакансии:
 
 ```text
-Требуется Middle Data Analyst.  
-Обязательные требования: python, sql, excel, pandas, data analysis.  
-Будет плюсом: power bi, tableau, statistics, visualization, product metrics.  
-Опыт работы от 1 года.  
+Требуется Junior Data Analyst.
+Обязательные требования: python, sql, excel, pandas, data analysis.
+Будет плюсом: power bi, tableau, visualization, git, statistics.
+Опыт работы от 1 года.
 Высшее образование обязательно.
 ```
 <img width="2158" height="1044" alt="2026-04-08_03-02-32" src="https://github.com/user-attachments/assets/767c6a39-500e-4e31-b9fb-eb78a103d53f" />
